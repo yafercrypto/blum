@@ -1092,8 +1092,9 @@ def task_main():
 
 def start():
     print(r"""
-          BLUM AUTO GAMEPLAY SCRIPT BY D4rkCipherX 
-
+          BLUM AUTO GAMEPLAY SCRIPT BY D4rkCipherX
+          
+                        YAFERCRYPTO
 
         Type 1 And Press Enter To Run The Script
        
