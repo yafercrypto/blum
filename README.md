@@ -13,7 +13,7 @@ pkg install python rust git -y
 pkg install git
 ```
    ```bash
-   git clone https://github.com/Not-D4rkCipherX/blum.git
+   git clone https://github.com/yafercrypto/blum.git
    ```
    ```bash
    cd blum
@@ -27,4 +27,4 @@ pkg install git
 python blum.py
 ```
 
-**TUTORIAL AVAILABLE ON MY YT**
+**TUTORIAL AVAILABLE ON MY YT | TIKTOK | FACEBOOK**
